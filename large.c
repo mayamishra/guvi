@@ -4,6 +4,7 @@
 int main()
 {
     int n1,n2,n3;
+    //comment
     scanf("%d %d %d",&n1,&n2,&n3);
     int max;
     max=n1;
