@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<ctype.h>
-#include<string.h>
+#include<string.h>//comment
 int main()
 {
     int ele,loop,count=1;//rotate an arr with ele elements, loop no. of times
