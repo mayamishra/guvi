@@ -7,7 +7,7 @@ int main()
     scanf("%s",str);
     for(int i=strlen(str)-1,j=0;i>=0,j<=strlen(str)-1;i--,j++)
     {
-        rev[aj]=str[i];
+        rev[j]=str[i];
         printf("%c",rev[j]);
     }
     
