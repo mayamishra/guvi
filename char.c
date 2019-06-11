@@ -14,5 +14,9 @@ int main()
             count++;
         }
     }
-    printf("%d",count);
+  //  printf("%d",count);
+    if(count==1)
+    printf("yes");
+    else
+    printf("no");
 }
